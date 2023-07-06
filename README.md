@@ -24,6 +24,11 @@ I have tinkered with many popular <code>tech stuff</code> in my free time, inclu
 <br>
 <br>
 
+## Work
+😴 work
+### BEAUMONZ
+WIP
+
 ## Projects
 Some side-projects I've created in my spare time.
 ### Nekoworld
@@ -37,8 +42,6 @@ All 3D assets were created with `Blender` by me, while 2D assets were hand-drawn
 Side-projects that are in development.
 ### Portfolio
 I'm currently working on my portfolio website. It will mainly constitute of React and Threejs (RTF)<br>
-### 2D game?
-I have some fun ideas in mind to reinforce my knowledge of programming paradigms, data structures, algorithms and game design principles.
 <br>
 <br>
 
