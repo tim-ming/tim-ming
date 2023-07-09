@@ -24,11 +24,6 @@ I have tinkered with many popular <code>tech stuff</code> in my free time, inclu
 <br>
 <br>
 
-## Work
-😴 work
-### BEAUMONZ
-WIP
-
 ## Projects
 Some side-projects I've created in my spare time.
 ### Nekoworld
