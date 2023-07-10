@@ -41,7 +41,7 @@ I'm currently working on my portfolio website. It will be built in React and Thr
 <br>
 
 ## Old website ⏲️
-View my old (embarrassing) [website](timming-old-project.pages.dev) made in my secondary years (with Gatsby). 
+View my old (embarrassing) [website](https://timming-old-project.pages.dev) made in my secondary years (with Gatsby). 
 <br>
 <br>
 
