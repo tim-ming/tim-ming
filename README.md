@@ -26,7 +26,7 @@ I have tinkered with many popular <code>tech stuff</code> in my free time, inclu
 
 ## Projects 🗄️
 Some side-projects I've created in my spare time.
-### Nekoworld
+### [Nekoworld](https://github.com/timming-au/kuroneko)
 A simple `Threejs` based low-poly planetary system simulation built with Threlte.<br>
 This was the result of two-week sprint to learn 3D web fundamentals, along with 3D modeling, and performance optimisations in mind.<br>
 All 3D assets were created with `Blender` by me, while 2D assets were hand-drawn/`midjourney`.
