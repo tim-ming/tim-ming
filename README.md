@@ -1,6 +1,5 @@
-# Who am I?
-I'm **Tim Ming**. Hi! 🙋‍♂️<br>
-I like to be creative, particularly in creating websites.<br>
+# I'm **Tim Ming**. Hi! 🙋‍♂️<br>
+I am a <h3>software engineer | aspiring creative web developer<h3><br>
 My interests include developing web aesthetics, usability (UX) and 3D web.
 <br>
 <br>
