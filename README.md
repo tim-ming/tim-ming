@@ -1,5 +1,5 @@
-# I'm **Tim Ming**. Hi! 🙋‍♂️<br>
-<h3>I am a software engineer | creative web developer</h3>
-My interests include developing web aesthetics, usability (UX) and 3D web.
+<h3>I'm Tim Ming. Hi! 🙋‍♂️</h3>
+<h1>I am a software engineer | creative web developer</h1>
+<p>My interests include developing web aesthetics, usability (UX) and 3D web.</p>
 
-[My website](https://kotimi.dev)
+[Website](https://kotimi.dev)
