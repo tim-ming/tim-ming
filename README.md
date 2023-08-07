@@ -29,12 +29,12 @@ All 3D assets were created with `Blender` by me, while 2D assets were hand-drawn
 ## WIP 🚧
 Side-projects that are in development.
 ### Portfolio
-I'm currently working on my [portfolio website](https://kotimi.dev). It will be built in React and Threejs (RTF)<br>
+I'm currently working on my [portfolio website](https://kotimi.dev), with Nextjs.
 <br>
 <br>
 
 ## Old website ⏲️
-View my old (embarrassing) [website](https://timming-old-project.pages.dev) made in my secondary years (with Gatsby). 
+View my old [website](https://timming-old-project.pages.dev) made in my secondary years (with Gatsby). 
 <br>
 <br>
 
