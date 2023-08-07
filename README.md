@@ -6,7 +6,7 @@ My interests include developing web aesthetics, usability (UX) and 3D web.
 <br>
 
 ## Stack 📚
-I tinker with some well-known <code>tech stuff</code>:
+I mainly use these <code>tech stuff</code>:
 
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="40px" height="40px"></a>
 <a href="https://threejs.org/" title="three.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" alt="three.js" width="40px" height="40px"></a>
